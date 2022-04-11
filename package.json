@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://github.com/Yipee-ki-yay/boilerplate-npm.git"
 	},
-	"author": "Alexander Morozov"
+	"author": "Alexander Morozov",
+	"description": "A project that does something awesome",
+	"keywords": ["fcc", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.0.0"
 }
